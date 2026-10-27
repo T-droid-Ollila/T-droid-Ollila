@@ -11,11 +11,76 @@
 - ***NLP*** : Transformer-based models with PyTorch , text matching .
 - ***Computer Vision*** : CNN's .
 
+### 🧰 Languages and Tools
+
+<p align="left">  
+<a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=VisualStudio&svgfill=15d8fe">  
+ </a>
+   <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=pytorch&svgfill=2d79c7">
+</a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=8ed5fa">
+</a>
+ <a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=huggingFace&svgfill=659b60">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+</a>
 
 
-🔗 **Connect with me**
+<!-- <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
+</a> -->
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
+</p>
+
+
+---
+
+## Statistics
+
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=T-droid-Ollila&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Ollila's GitHub Stats" height="180" />
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=T-droid-Ollila&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Ollila's Top Languages" height="180" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T-droid-Ollila&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=T-droid-Ollila&theme=github_dark)
+
+---
+
+### Join and connect with me:
 
 | | |
 |:--:|:--:|
 | <a href="https://www.linkedin.com/in/ollila-simiyu-a9b886363/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"></a>| <a href="https://substack.com/@ollilasimiyu?utm_source=user-menu"><img width="50" height="50" alt="920c694f-4e06-4b53-b9a2-f1cd68734c7c" src="https://github.com/user-attachments/assets/54b5ab49-331e-4786-a9b2-22fe641e6dee"/></a> |
 | | |
+
+<!-- Footer -->
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+</div>
+
+
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+          
