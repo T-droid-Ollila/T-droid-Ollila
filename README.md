@@ -39,16 +39,16 @@
 <!-- <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=jupyter&svgfill=f06629">
 </a> -->
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://devicon.dev/>"
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://devicon.dev/>"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/huggingface/huggingface-original.svg" width="40">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://devicon.dev/>"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="40"/>
 </a>
- <https://devicon.dev/>
+ <a href="https://devicon.dev/>"
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="40">
  </a>
 </p>
