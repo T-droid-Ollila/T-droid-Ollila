@@ -71,7 +71,7 @@
 ---
 ### Top repositories
 
-<a href="https://github.com/T-droid-Ollila/ML_Churn_Engineering" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=T-droid-Ollila&repo=ML_Churn_Engineering&theme=gruvbox"></a>
+<a href="https://github.com/T-droid-Ollila/ML_Churn_Engineering" target="_blank"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=T-droid-Ollila&repo=ML_Churn_Engineering&theme=gruvbox"></a>
 
 <a href="https://github.com/T-droid-Ollila/ThenicsAI-" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=T-droid-Ollila&repo=ThenicsAI-&theme=gruvbox"></a>
 
