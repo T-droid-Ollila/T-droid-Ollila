@@ -58,8 +58,7 @@
 
 ## Statistics
 
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=T-droid-Ollila&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Ollila's GitHub Stats" height="180" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=T-droid-Ollila&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Ollila's GitHub Stats" height="180"/>
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=T-droid-Ollila&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Ollila's Top Languages" height="180" />
 
