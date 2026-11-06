@@ -53,14 +53,16 @@
  </a>
 </p>
 
+---
 
+***💡 "Every error is a lesson and every crash is an opportunity to rebuild stronger."***
 ---
 
 ## Statistics
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=T-droid-Ollila&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Ollila's GitHub Stats" height="180"/>
+<img src="https://ghstats.dev/api/card?username=T-droid-Ollila&theme=radical" alt="GitHub Stats Card" />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=T-droid-Ollila&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Ollila's Top Languages" height="180" />
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=T-droid-Ollila&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Ollila's Top Languages" height="180" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T-droid-Ollila&theme=github_dark)
 
@@ -92,3 +94,5 @@
 <br />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:39d353,100:006d32&section=footer" alt="" width="100%">
